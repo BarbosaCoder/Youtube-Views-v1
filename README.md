@@ -10,6 +10,25 @@ Utiliza Python, Selenium e outras libs para tornar as visitas o mais humanas pos
 
 ---
 
+## 🌟 Próxima versão: v2 em breve!
+
+> 🚧 A versão 2 já está em desenvolvimento e trará diversas melhorias! Fique de olho no repositório ⭐
+
+### ✅ O que está por vir na v2:
+
+- 🖥️ **Interface gráfica (GUI)** com seleção de vídeos, tempo e número de execuções.
+- 🌐 **Execução paralela com múltiplas abas/navegadores**.
+- 🛡️ **Modo stealth avançado** para evitar detecção pelo YouTube.
+- 🌍 **Suporte a proxies e VPNs** para IPs rotativos.
+- 📡 **Painel web (Flask)** para visualizar as execuções em tempo real.
+- 📁 **Sistema de tarefas programadas (agendador automático)**.
+- 🧠 **Análise inteligente de retenção (com IA básica)**.
+
+> ⚠️ Quer sugerir uma funcionalidade para a v2?  
+> Crie uma issue ou envie um PR com sua ideia!
+
+---
+
 ## 🧠 Funcionalidades
 
 - 🔍 Simula buscas no Google com digitação natural.
@@ -33,13 +52,9 @@ Utiliza Python, Selenium e outras libs para tornar as visitas o mais humanas pos
 | 🧪 ChromeDriver | Driver para navegador Chrome |
 
 ---
+<br>
+## Made with 💗 just for you.
 
-## 📦 Instalação
-
-### Passo a passo completo:
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seuusuario/youtube-view-simulator.git
-   cd youtube-view-simulator
-   ```
+<p align="center">
+  <img src="https://media.tenor.com/3sNxQuwVorUAAAAj/21oyenn21.gif" alt="Feito com amor" width="250"/>
+</p>

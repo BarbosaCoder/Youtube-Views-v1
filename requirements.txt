@@ -1,0 +1,8 @@
+| Library      | `pip` Command            | Purpose                      |
+| ------------ | ------------------------ | ---------------------------- |
+| `selenium`   | `pip install selenium`   | Browser automation           |
+| `faker`      | `pip install faker`      | Fake data generation         |
+| `pandas`     | `pip install pandas`     | Data manipulation and export |
+| `matplotlib` | `pip install matplotlib` | Chart and graph generation   |
+
+pip install selenium faker pandas matplotlib

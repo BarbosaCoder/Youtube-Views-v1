@@ -5,59 +5,56 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20/%20Linux%20/%20macOS-lightgrey.svg)]()
 
-Simulador de visualizações no YouTube com comportamento realista. Ideal para testes com SEO, UX, retenção de usuários e comportamento orgânico.  
-Utiliza Python, Selenium e outras libs para tornar as visitas o mais humanas possíveis (scroll, busca no Google, clique natural, tempo de retenção, etc).
+Realistic YouTube view simulator. Ideal for testing SEO, UX, user retention, and organic behavior.  
+Uses Python, Selenium, and other libraries to make visits as human-like as possible (scrolling, Google search, natural clicking, retention time, etc).
 
 ---
 
-## 🌟 Próxima versão: v2 em breve!
+## 🌟 Upcoming Version: v2 coming soon!
 
-> 🚧 A versão 2 já está em desenvolvimento e trará diversas melhorias! Fique de olho no repositório ⭐
+> 🚧 Version 2 is already in development and will bring several improvements! Stay tuned ⭐
 
-### ✅ O que está por vir na v2:
+### ✅ What’s coming in v2:
 
-- 🖥️ **Interface gráfica (GUI)** com seleção de vídeos, tempo e número de execuções.
-- 🌐 **Execução paralela com múltiplas abas/navegadores**.
-- 🛡️ **Modo stealth avançado** para evitar detecção pelo YouTube.
-- 🌍 **Suporte a proxies e VPNs** para IPs rotativos.
-- 📡 **Painel web (Flask)** para visualizar as execuções em tempo real.
-- 📁 **Sistema de tarefas programadas (agendador automático)**.
-- 🧠 **Análise inteligente de retenção (com IA básica)**.
+- 🖥️ **Graphical interface (GUI)** with video selection, time, and run count
+- 🌐 **Parallel execution with multiple tabs/browsers**
+- 🛡️ **Advanced stealth mode** to avoid YouTube detection
+- 🌍 **Support for proxies and VPNs** (rotating IPs)
+- 📡 **Web dashboard (Flask)** to monitor sessions in real time
+- 📁 **Scheduled task system (automatic scheduler)**
+- 🧠 **Smart retention analysis (with basic AI)**
 
-> ⚠️ Quer sugerir uma funcionalidade para a v2?  
-> Crie uma issue ou envie um PR com sua ideia!
-
----
-
-## 🧠 Funcionalidades
-
-- 🔍 Simula buscas no Google com digitação natural.
-- 🧭 Faz scroll e interações antes de clicar no vídeo.
-- 🎯 Acessa o link do YouTube manualmente como um humano.
-- ⌛ Aguarda um tempo assistindo (entre 2 e 3 minutos).
-- 👍 Pode curtir o vídeo (aleatoriamente).
-- 📈 Gera relatórios com logs e gráficos da sessão.
+> ⚠️ Want to suggest a feature for v2?  
+> Create an issue or send a PR with your idea!
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🧠 Features
 
-| Ferramenta | Descrição |
-|------------|-----------|
-| 🐍 Python 3.10+ | Linguagem principal |
-| 🌐 Selenium | Automatização de navegador |
-| 🎭 Faker | Geração de dados aleatórios (buscas) |
-| 📊 Matplotlib | Gráficos de retenção |
-| 📑 Pandas | Exportação de dados (CSV) |
-| 🧪 ChromeDriver | Driver para navegador Chrome |
+- 🔍 Simulates Google searches with natural typing
+- 🧭 Scrolls and interacts before clicking the video
+- 🎯 Accesses YouTube manually like a real user
+- ⌛ Watches for a realistic time (between 2–3 minutes)
+- 👍 Can randomly like the video
+- 📈 Generates session reports with logs and graphs
 
 ---
-<br>
-<center>
 
-**Made with 💗 just for you.**
+## 🛠️ Technologies Used
 
-</center>
+| Tool | Description |
+|------|-------------|
+| 🐍 Python 3.10+ | Main language |
+| 🌐 Selenium | Browser automation |
+| 🎭 Faker | Random search data generator |
+| 📊 Matplotlib | Retention graphs |
+| 📑 Pandas | Data export (CSV) |
+| 🧪 ChromeDriver | Chrome browser driver |
+
+---
+
+<p align="center"><b>Made with 💗 just for you.</b></p>
+
 <p align="center">
-  <img src="https://media.tenor.com/3sNxQuwVorUAAAAj/21oyenn21.gif" alt="Feito com amor" width="120"/>
+  <img src="https://media.tenor.com/3sNxQuwVorUAAAAj/21oyenn21.gif" alt="Made with love" width="120"/>
 </p>

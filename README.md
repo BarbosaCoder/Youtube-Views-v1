@@ -59,5 +59,5 @@ Utiliza Python, Selenium e outras libs para tornar as visitas o mais humanas pos
 
 </center>
 <p align="center">
-  <img src="https://media.tenor.com/3sNxQuwVorUAAAAj/21oyenn21.gif" alt="Feito com amor" width="250"/>
+  <img src="https://media.tenor.com/3sNxQuwVorUAAAAj/21oyenn21.gif" alt="Feito com amor" width="120"/>
 </p>

@@ -11,6 +11,7 @@ Uses Python, Selenium, and other libraries to make visits as human-like as possi
 ---
 
 ## 🌟 Upcoming Version: v2 coming soon!
+-> 16/08/2025
 
 > 🚧 Version 2 is already in development and will bring several improvements! Stay tuned ⭐
 
